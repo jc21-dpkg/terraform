@@ -1,3 +1,9 @@
+terraform (0.12.5) unstable; urgency=medium
+
+   * See: https://github.com/hashicorp/terraform/releases/tag/v0.12.5
+
+  -- Jamie Curnow <jc@jc21.com>  Tue, 23 Jul 2019 9:00:00 +1000
+
 terraform (0.12.4) unstable; urgency=medium
 
    * See: https://github.com/hashicorp/terraform/releases/tag/v0.12.4
