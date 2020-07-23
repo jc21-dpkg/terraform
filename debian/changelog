@@ -1,3 +1,9 @@
+terraform (0.12.29) unstable; urgency=medium
+
+   * See: https://github.com/hashicorp/terraform/releases/tag/v0.12.29
+
+     -- Jamie Curnow <jc@jc21.com>  Fri, 24 Jul 2020 9:00:00 +1000
+
 terraform (0.12.28) unstable; urgency=medium
 
    * See: https://github.com/hashicorp/terraform/releases/tag/v0.12.28
